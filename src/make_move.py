@@ -5,3 +5,5 @@ cardToRemove = int(input("select which card to remove: "))
 # hiddenDeck = [2, 3, 4, 5, 6]
 for i in range(len(userDeck)):
   print(userDeck[i] + " ")
+
+#dsa
